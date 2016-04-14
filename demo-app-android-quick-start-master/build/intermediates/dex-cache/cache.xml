@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\zhushouwen\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="G:\demo-app-android-quick-start-master\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-8b802930df96f69a80a7866124dc53286704ec26.jar" />
+    </item>
+    <item
+        jar="G:\demo-app-android-quick-start-master\app\build\intermediates\exploded-aar\demo-app-android-quick-start-master\IMKit\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f5c384be85e92cdc3a2d992bced27f56366f6bfc">
+        <dex dex="G:\demo-app-android-quick-start-master\app\build\intermediates\pre-dexed\debug\classes-d319ba16dd19f12f4e0d8369ded0e78d1afd0819.jar" />
+    </item>
+    <item
+        jar="G:\demo-app-android-quick-start-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="G:\demo-app-android-quick-start-master\app\build\intermediates\pre-dexed\debug\classes-5b9b823aafd574de20ac983a92e51d1d921dd1fe.jar" />
+    </item>
+    <item
+        jar="G:\demo-app-android-quick-start-master\app\build\intermediates\exploded-aar\demo-app-android-quick-start-master\IMKit\unspecified\jars\libs\Rong_IMKit_v2_4_11.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9b38883a862d16527c6a671389cb1fa3b68a52b6">
+        <dex dex="G:\demo-app-android-quick-start-master\app\build\intermediates\pre-dexed\debug\Rong_IMKit_v2_4_11-584c28588bd4a1e4ee8f042483f6f5c458731798.jar" />
+    </item>
+    <item
+        jar="G:\demo-app-android-quick-start-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="G:\demo-app-android-quick-start-master\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-66d24ea14571d84cdcf8410f2bdf43e8ca1c967f.jar" />
+    </item>
+
+</items>
